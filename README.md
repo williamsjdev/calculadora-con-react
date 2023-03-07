@@ -1,3 +1,10 @@
+Creacion de una calculadora usando HTML, CSS y JavaScript usando React como libreria.
+
+El proyecto aun esta en fase beta, ya que aun debo resolver algunos errores. Si alguien quiere 
+colabrar, estoy dispuesto escuchar consejos.
+
+[![Calculadora](https://github.com/williamsjdev/calculadora-con-react/blob/main/calculadora%20vista%20previa.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
